@@ -10,7 +10,7 @@ Os dados utilizados neste projeto são os dados de mpg do r do ggplot2. Estes da
  - Foram criadas diferentes visualizações dos dados usando o ggplot2.
 
 
-**Impacto da eficiência por tipo displ, :**
+**Impacto da eficiência por tração:**
 <br>
 ![image](https://github.com/rddamasceno/analise_mpg_r/assets/55591959/5b8eecf9-6582-4e55-94c1-f0a66d105d7a)
 
@@ -29,9 +29,7 @@ Os dados utilizados neste projeto são os dados de mpg do r do ggplot2. Estes da
  - A eficiência do VS dos cilindros aumentou ao longo do ano, de 1999 a 2008
  - No gráfico acima também podemos notar que temos alguns valores discrepantes onde alguns carros possuem cilindros maiores ou iguais a 6, mas ainda apresentam boa eficiência.
 
-
-
-**Distribuição dos gols por Estado:**
+**Correlação vs. Causalidade:**
 <br>
 ![image](https://github.com/rddamasceno/analise_mpg_r/assets/55591959/18420893-7670-47c7-8cdc-54ed571ce04e)
 
