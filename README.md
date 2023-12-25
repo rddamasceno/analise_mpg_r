@@ -12,7 +12,7 @@ Os dados utilizados neste projeto são os dados de mpg do r do ggplot2. Estes da
 
 **Impacto da eficiência por tipo displ, :**
 <br>
-![image](https://github.com/rddamasceno/analise_mpg_r/assets/55591959/dcd1436b-6382-49e1-a352-bac168462844)
+![image](https://github.com/rddamasceno/analise_mpg_r/assets/55591959/5b8eecf9-6582-4e55-94c1-f0a66d105d7a)
 
 **Interpretação:**
 
@@ -22,7 +22,7 @@ Os dados utilizados neste projeto são os dados de mpg do r do ggplot2. Estes da
 
 **Análise por Ano:**
 <br>
-![image](https://github.com/rddamasceno/analise_mpg_r/assets/55591959/2dae379e-3e4d-46a4-8706-a6433ff39023)
+![image](https://github.com/rddamasceno/analise_mpg_r/assets/55591959/67f1d23b-16a8-4566-a6a2-7682cfc4deb7)
 
 **Interpretação:**
 
@@ -33,7 +33,7 @@ Os dados utilizados neste projeto são os dados de mpg do r do ggplot2. Estes da
 
 **Distribuição dos gols por Estado:**
 <br>
-![image](https://github.com/rddamasceno/analise_mpg_r/assets/55591959/8589da30-5e53-4187-acaf-448867bde1a8)
+![image](https://github.com/rddamasceno/analise_mpg_r/assets/55591959/18420893-7670-47c7-8cdc-54ed571ce04e)
 
 **Interpretação:**
 
@@ -41,6 +41,11 @@ Os dados utilizados neste projeto são os dados de mpg do r do ggplot2. Estes da
  - Correlação negativa: Os pontos geralmente têm inclinação descendente, indicando uma correlação negativa entre deslocamento (displ) e consumo de combustível na cidade (cty). À medida que o deslocamento aumenta, o consumo de combustível na cidade tende a diminuir.
  - Tendência linear: A linha ajustada de melhor ajuste (criada por geom_smooth(method = "lm")) mostra a tendência linear geral, reforçando esta correlação negativa.
 
+**Outras analises, contagem por categorias do dataset:**
+<br>
+![image](https://github.com/rddamasceno/analise_mpg_r/assets/55591959/d07ab0aa-8111-4cfb-8591-9ebbad0755eb)
+
+![image](https://github.com/rddamasceno/analise_mpg_r/assets/55591959/246bcc41-782f-4eb0-bda5-2e52c81c9f2a)
 
 
 <h2 align="left"> 🛠️ Ferramentas:</h2>
